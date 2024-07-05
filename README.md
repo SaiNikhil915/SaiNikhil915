@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @SaiNikhil915
-- 👀 I’m interested in playing badminton
 - 🌱 I’m currently learning Skills in artificial intelligence
 - 📫reach me on insta @sai.nikhil_915
 
