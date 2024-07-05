@@ -1,8 +1,45 @@
-- 👋 Hi, I’m @SaiNikhil915
-- 🌱 I’m currently learning Skills in artificial intelligence
-- 📫reach me on insta @sai.nikhil_915
+# Hi 👋, I'm Shiva
 
-<!---
-SaiNikhil915/SaiNikhil915 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your c
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiNikhil915&show_icons=true&theme=radical)
+*Undergraduate Student | Developer*  
+*Email:* sainikhilmammula@gmail.com  
+
+---
+
+## About Me
+
+Passionate about AI, ML, Full Stack Dev, and Cloud Tech, with a knack for problem-solving, research, and innovation. Known for being hardworking, consistent, a team player, and adaptable, seeking opportunities to take on fresh challenges within in tech sector.
+
+---
+
+## Skills
+
+### Programming Languages
+- Java
+- Python
+- JavaScript
+
+### Database Systems
+- MySQL
+- MongoDB
+- PostgreSQL
+
+### Cloud Experience
+-GCP
+-AWS
+
+### Libraries and Frameworks
+- Node JS
+- Express
+- React JS
+
+### Others
+- Object Oriented Programming
+- Networking
+- Operating Systems
+
+
+
+*Profile Views*
+
+
+![Visitor Count](https://profile-counter.glitch.me/SaiNikhil915/count.svg)
