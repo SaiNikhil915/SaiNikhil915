@@ -1,4 +1,4 @@
-# Hi 👋, I'm Shiva
+# Hi 👋, I'm Nikhil
 
 *Undergraduate Student | Developer*  
 *Email:* sainikhilmammula@gmail.com  
